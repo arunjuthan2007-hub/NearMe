@@ -131,22 +131,24 @@ temple.html
 
 ## OUTPUT
 map.html
+
 ![alt text](image-2.png)
 
-botique.html
+boutique.html
 ![alt text](image.png)
 
+
 hotel.html
-![alt text](image-1.png)
+NearMe/image-1.png
 
 river.html
-![alt text](image-4.png)
+[alt text](image-4.png)
 
 school.html
-![alt text](image-5.png)
+[alt text](image-5.png)
 
 temple.html
-![alt text](image-6.png)
+[alt text](image-6.png)
 
 
 
