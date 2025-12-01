@@ -139,16 +139,16 @@ boutique.html
 
 
 hotel.html
-NearMe/image-1.png
+![alt text](image-1.png)
 
 river.html
-[alt text](image-4.png)
+![alt text](image-4.png)
 
 school.html
-[alt text](image-5.png)
+![alt text](image-5.png)
 
 temple.html
-[alt text](image-6.png)
+![alt text](image-6.png)
 
 
 
