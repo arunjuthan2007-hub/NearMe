@@ -1,6 +1,5 @@
 # Ex03 Places Around Me
-## Date: 
-
+## Date: 06.12.2025
 ## AIM
 To develop a website to display details about the places around my house.
 
@@ -130,30 +129,23 @@ temple.html
 
 
 ## OUTPUT
-map.html
-
-![alt text](image-2.png)
-
-boutique.html
+Map.html
 ![alt text](image.png)
 
-
-hotel.html
+Botique.html
 ![alt text](image-1.png)
 
-river.html
+Hotel.html
+![alt text](image-2.png)
+
+River.html
+![alt text](image-3.png)
+
+School.html
 ![alt text](image-4.png)
 
-school.html
+Temple.html
 ![alt text](image-5.png)
-
-temple.html
-![alt text](image-6.png)
-
-
-
-
-
 
 
 
